@@ -1,0 +1,28 @@
+_repo: O-Padroado-Portuguez-na-China_31693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pereira, Alberto Feliciano Marques
+    aliases:
+    - Pereira, A. Marques (Alberto)
+    - Marques Pereira, Alberto Feliciano
+    gutenberg_agent_id: '35412'
+    url: http://www.gutenberg.org/2009/agents/35412
+description: ''
+gutenberg_issued: '2010-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31693'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Macau (China : Special Administrative Region) -- History'
+- !lcsh 'Portuguese -- China -- Macau (Special Administrative Region)'
+title: O Padroado Portuguez na China
+url: http://www.gutenberg.org/ebooks/31693
